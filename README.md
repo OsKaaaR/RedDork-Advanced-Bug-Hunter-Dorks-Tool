@@ -1,6 +1,5 @@
-# 🔴 RedDork-Advanced-Bug-Hunter-Dorking-Tool
-
 # 🕵️ RedDork: Bug Bounty Dorks Recon Tool
+
 
 A powerful, desktop-based recon tool for bug bounty hunters, built with Java Swing.  
 It leverages categorized Google Dorks and Github to identify potentially sensitive, exposed, or misconfigured assets across a given domain.
