@@ -47,18 +47,6 @@ It leverages categorized Google Dorks and Github to identify potentially sensiti
    java -cp out DorkingToolGUI
    ```
 
-## 📁 Project Structure
-
-BugBountyReconGUI/
-├── src/
-│   ├── assets/                 
-│   │   ├── api.png
-│   │   ├── sensitive.png
-│   │   └── ...
-│   ├── ImageUtil.java
-│   ├── DorkingToolGUI.java
-│   ├── DorkingToolUtils.java
-│   ├── TabBuilder.java
-│   └── DorkQueryBuilder.java
-
-   
+## 🙌 Credits
+Developed with ❤️ by OsKaaR
+Special thanks to infosec community.
