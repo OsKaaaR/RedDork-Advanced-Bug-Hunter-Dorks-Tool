@@ -38,7 +38,7 @@ It leverages categorized Google Dorks and Github to identify potentially sensiti
 
 ## 📦 Download
 
-<a href="https://github.com/YourUsername/RedDork/releases/latest/download/RedDork.exe">
+<a href="https://github.com/OsKaaaR/RedDork-Advanced-Bug-Hunter-Dorks-Tool/releases/latest/download/RedDork.exe">
   <img src="https://img.shields.io/badge/⬇️%20Click%20Here%20to%20Download%20Latest%20Release-green?style=for-the-badge" alt="Download RedDork" />
 </a>
 
