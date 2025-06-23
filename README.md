@@ -38,8 +38,6 @@ It leverages categorized Google Dorks and Github to identify potentially sensiti
 
 ## 🧪 How to Run
 
-### 🔻 Option 1: Run the Standalone `.exe` (Recommended for Windows)
-
 1. **Download the Latest Release:**
    - Go to the [Releases](https://github.com/OsKaaaR/RedDork-Advanced-Bug-Hunter-Dorks-Tool/releases) section.
    - Download the executable:  
@@ -56,22 +54,13 @@ It leverages categorized Google Dorks and Github to identify potentially sensiti
      - [Adoptium (OpenJDK)](https://adoptium.net)
      - [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
+## 📦 Download
+
+<a href="https://github.com/YourUsername/RedDork/releases/latest/download/RedDork.exe">
+  <img src="https://img.shields.io/badge/⬇️%20Click%20Here%20to%20Download%20Latest%20Release-green?style=for-the-badge" alt="Download RedDork" />
+</a>
+
 ---
-
-### 🛠 Option 2: Run from Source (For Developers)
-
-
-# Clone the repository
-```bash
-git clone https://github.com/YourUsername/RedDork.git
-cd RedDork
-```
-
-# Compile and run (requires Java 17+)
-```bash
-javac -d out src/**/*.java
-java -cp out DorkingToolGUI
-```
 
 ## 🙌 Credits
 Developed with ❤️ by OsKaaR
