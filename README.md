@@ -36,15 +36,42 @@ It leverages categorized Google Dorks and Github to identify potentially sensiti
 
 ---
 
-## 🚀 How to Run
+## 🧪 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/BugBountyReconGUI.git
-   cd BugBountyReconGUI
-   javac -d out src/**/*.java
-   java -cp out DorkingToolGUI
-   ```
+### 🔻 Option 1: Run the Standalone `.exe` (Recommended for Windows)
+
+1. **Download the Latest Release:**
+   - Go to the [Releases](https://github.com/OsKaaaR/RedDork-Advanced-Bug-Hunter-Dorks-Tool/releases) section.
+   - Download the executable:  
+     **`RedDork.exe`**
+
+2. **Run the Application:**
+   - Double-click `RedDork.exe` to launch the app.
+   - ⚠️ Make sure **Java is installed** on your system (Java 17 or higher).  
+     You can check by opening Command Prompt and typing:
+     ```bash
+     java -version
+     ```
+   - If Java is not installed, download it from one of the following:
+     - [Adoptium (OpenJDK)](https://adoptium.net)
+     - [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+
+---
+
+### 🛠 Option 2: Run from Source (For Developers)
+
+
+# Clone the repository
+```bash
+git clone https://github.com/YourUsername/RedDork.git
+cd RedDork
+```
+
+# Compile and run (requires Java 17+)
+```bash
+javac -d out src/**/*.java
+java -cp out DorkingToolGUI
+```
 
 ## 🙌 Credits
 Developed with ❤️ by OsKaaR
